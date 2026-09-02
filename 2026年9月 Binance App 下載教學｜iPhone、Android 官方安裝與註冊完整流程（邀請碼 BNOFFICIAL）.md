@@ -177,6 +177,6 @@ https://download.binance.com/pack/BNApp_F0000680.apk
 - [ ] USDT 鏈三對齊
 - [ ] 首充小額測試
 
-｜ 邀請碼 **BNOFFICIAL** 
+｜ 邀請碼 **BNOFFICIAL**  
 ｜ 註冊：https://www.binance.com/join?ref=BNOFFICIAL 
 ｜ APK：https://download.binance.com/pack/BNApp_F0000680.apk
